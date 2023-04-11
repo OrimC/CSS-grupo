@@ -1,0 +1,16 @@
+*{background-color:rgb(145, 191, 232)}
+h1{
+    font-size:xx-large;
+    color: red;
+    text-align: center;
+}
+p{
+    font-size: x-large;
+    color: blue;
+}
+
+span{
+    color: rgba(27, 27, 158, 0.819);
+    text-decoration: underline white;
+    }
+
